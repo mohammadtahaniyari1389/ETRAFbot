@@ -1,0 +1,8 @@
+.env
+confess.db
+confess.db-shm
+confess.db-wal
+__pycache__/
+*.py[cod]
+.venv/
+venv/
